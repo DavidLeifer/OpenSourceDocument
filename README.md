@@ -12,3 +12,5 @@ Todo 0: Edit and assemble a more directed framework. Status: Processing
 
 Todo 0: Collecting more data. The first dataset was more of a testrun and doesn't have enough data to effectively use the Central Limit Theorem. Status: Processing <br><br>
 Todo 1: Edit the chapter to make more organized. Status: Processing
+
+## Chapter 4-8: Weather
