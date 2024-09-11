@@ -12,29 +12,29 @@ Todo 0: Edit the document. Status: Not started
 
 ## Chapter 2: Statistics Class
 
-Todo 0: Finish weeks 10-17. Status: Processing
+Todo 0: Edit the document. Status: Not started
+
+## Chapter 3: Data Visualization
+
+Todo 0: Complete lecture notes. Status: Processing
 
 Todo 1: Edit the document. Status: Not started
 
-Todo 2: Decide if the Graph class warrants an entire chapter. Status: Not started
-
-Todo 3: Organize Chapters into folders on GitHub. Status: Not started
-
-## Chapter 3: Skateboarding Kinesiology
+## Chapter 4: Skateboarding Kinesiology
 
 Todo 0: Collecting more data. The first dataset was more of a testrun and doesn't have enough data to effectively use the Central Limit Theorem. Status: Processing
 
 Todo 1: Edit the chapter as a more organized document. Format resembles a dissertation. Status: Not started
 
-## Chapter 4: Philisophical Rants on Music
+## Chapter 5: Philisophical Rants on Music
 
 The audio portion of multi dimensional data is both horrific and interesting. No code approach.
 
 Todo 0: Edit and assemble a more directed framework. Status: Not started
 
-## Chapter 5-9: Weather
+## Chapter 6-10: Weather
 
 Todo 0: Repurpose weather blogs. Status: Processing
 
-## Chapter 10: Concluding Rants
+## Chapter 11: Concluding Rants
 
