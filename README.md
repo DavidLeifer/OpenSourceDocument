@@ -8,7 +8,7 @@ Todo 0: Write a course introducing the statistical concepts using the package fu
 
 Describes the functions and classes used in the previous chapter.
 
-Todo 0: Edit the document. Status: Not started
+Todo 0: Edit the document. Rename header to Chapter 1. Status: Not started
 
 ## Chapter 2: Statistics Class
 
