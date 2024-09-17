@@ -18,7 +18,7 @@ Develops a basic version of the CSV parser as seen in the Pandas library.
 
 The goal is to learn more about computer science concepts Time and Space complexity.
 
-- Todo 0: Edit the document.
+- Todo 0: Edit the document. Specifically the neural net, summary statistics in hardware acceleration is the reason for the speedup not neccessarily neural nets.
 
 ## Chapter 2: Descriptive Statistics
 
