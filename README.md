@@ -9,21 +9,21 @@ The chapter number and a brief description is as follows:
 1. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
       - Todo 0: Edit the document.
 ## Chapter 1: CSV Parser
-      - Develops a basic version of the CSV parser as seen in the Pandas library.
-      - The goal is to learn more about computer science concepts Time and Space complexity.
+0. Develops a basic version of the CSV parser as seen in the Pandas library.
+1. The goal is to learn more about computer science concepts Time and Space complexity.
       - Todo 0: Edit the document.
 ## Chapter 2: Descriptive Statistics
-      - Efficiently implement basic descriptive statistics to further an understanding of how computers work.
+0. Efficiently implement basic descriptive statistics to further an understanding of how computers work.
       - Todo 0: Edit the document.
 ## Chapter 3: Python Graph
-      - Create a black and white python graph using no libraries.
+0. Create a black and white python graph using no libraries.
       - Todo 0: Edit the document.
 ## Chapter 4: Skateboarding and Anatomy
-      - Discusses learning basic skateboarding tricks and the anatomy and physiological functions neccessary to avoid severe bodily injury.
+0. Discusses learning basic skateboarding tricks and the anatomy and physiological functions neccessary to avoid severe bodily injury.
       - Todo 0: Collecting more data. Status: Processing.
       - Todo 1: Edit into a chapter format.
 ## Chapter 5: Geoserver in the Cloud
-      - The history of early internet viruses is a hellscape and it might be challenging to understand why these were built. The next few chapters address how they specifically were designed by altruistic programmers focusing on very small problems without understanding the larger picture of how their programs might be misused.
+- The history of early internet viruses is a hellscape and it might be challenging to understand why these were built. The next few chapters address how they specifically were designed by altruistic programmers focusing on very small problems without understanding the larger picture of how their programs might be misused.
       - Tutorial to install Geoserver on linux and display climate raster timeseries data in a provider such as Google Cloud Platform.
       - The complexities of describing climatology data is challenging. By the time you begin to summarize the information for the layperson all meaning is binned into loaded terms with preconcieved assumptions.
       - Todo 0: reformat.
