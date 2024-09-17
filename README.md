@@ -8,6 +8,7 @@ The chapter number and a brief description is as follows:
 Uses Python to introduce how computers work.
 
 By the end of the class you should be able to execute code using existing Python libraries like Pandas.
+
       - Todo 0: Edit the document.
 ## Chapter 1: CSV Parser
 Develops a basic version of the CSV parser as seen in the Pandas library.
