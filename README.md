@@ -11,14 +11,14 @@ Uses Python to introduce how computers work.
 By the end of the class you should be able to execute code using existing Python libraries like Pandas.
 
 - Todo 0: Edit the document.
-- 
+
 ## Chapter 1: CSV Parser
 
 Develops a basic version of the CSV parser as seen in the Pandas library.
 
 The goal is to learn more about computer science concepts Time and Space complexity.
 
--Todo 0: Edit the document.
+- Todo 0: Edit the document.
 
 ## Chapter 2: Descriptive Statistics
 
@@ -79,7 +79,7 @@ Uses the JavaScript package manager NPM to install Angular JS and OpenLayers to 
 Example program that uses Python's Numpy to generate quantiles to more effectively visualize the information.
 
 - Todo 0: reformat.
-- 
+
 ## Chapter 10: AngularJS
 
 Builds a timeslider to more effectively view the Nino34 index and the statisical summaries for the raster data.
