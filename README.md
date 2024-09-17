@@ -5,8 +5,8 @@ This document is designed as a textbook specifically for kinesiology graduate st
 The chapter number and a brief description is as follows:
 
 ## Chapter 0: Introduction to Computers
-      - Uses Python to introduce how computers work.
-      - By the end of the class you should be able to execute code using existing Python libraries like Pandas.
+0. Uses Python to introduce how computers work.
+1. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
       - Todo 0: Edit the document.
 ## Chapter 1: CSV Parser
       - Develops a basic version of the CSV parser as seen in the Pandas library.
