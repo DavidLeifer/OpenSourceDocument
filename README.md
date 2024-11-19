@@ -22,8 +22,6 @@ Create a black and white python graph using no libraries.
 ### Chapter 4: Skateboarding and Anatomy
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
 
-Todo 0: Edit into a chapter format.
-
 ### Chapter 5: Geoserver in the Cloud
 The history of early internet viruses is a hellscape and it might be challenging to understand why these were built. The next few chapters address how they specifically were designed by altruistic programmers focusing on very small problems without understanding the larger picture of how their programs might be misused.
 Tutorial to install Geoserver on linux and display climate raster time series data in a provider such as Google Cloud Platform.
@@ -52,7 +50,7 @@ Todo 4: reformat.
 ### Chapter 9: Quantiles
 Example program that uses Python's Numpy to generate quantiles to more effectively visualize the information.
 
-Todo 5 reformat.
+Todo 5: reformat.
 
 ### Chapter 10: AngularJS
 Builds a time slider to more effectively view the Nino34 index and the statistical summaries for the raster data.
