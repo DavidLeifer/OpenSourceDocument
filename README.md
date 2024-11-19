@@ -5,54 +5,61 @@ This document is designed as a textbook specifically for graduate students seeki
 
 The chapter number and a brief description is as follows:
 
-## Chapter 0: Introduction to Computers
+### Chapter 0: Introduction to Computers
 Uses Python to introduce how computers work.
 By the end of the class you should be able to execute code using existing Python libraries like Pandas.
 
-## Chapter 1: CSV Parser
+### Chapter 1: CSV Parser
 Develops a basic version of the CSV parser as seen in the Pandas library.
 The goal is to learn more about computer science concepts Time and Space complexity.
 
-## Chapter 2: Descriptive Statistics
+### Chapter 2: Descriptive Statistics
 Efficiently implement basic descriptive statistics to further an understanding of how computers work.
 
-## Chapter 3: Python Graph
+### Chapter 3: Python Graph
 Create a black and white python graph using no libraries.
 
-## Chapter 4: Skateboarding and Anatomy
+### Chapter 4: Skateboarding and Anatomy
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
+
 Todo 0: Edit into a chapter format.
 
-## Chapter 5: Geoserver in the Cloud
+### Chapter 5: Geoserver in the Cloud
 The history of early internet viruses is a hellscape and it might be challenging to understand why these were built. The next few chapters address how they specifically were designed by altruistic programmers focusing on very small problems without understanding the larger picture of how their programs might be misused.
 Tutorial to install Geoserver on linux and display climate raster time series data in a provider such as Google Cloud Platform.
 The complexities of describing climatology data is challenging. By the time you begin to summarize the information for the layperson all meaning is binned into loaded terms with preconceived assumptions.
+
 Todo 1: reformat.
 
-## Chapter 6: Linux Automation
+### Chapter 6: Linux Automation
 Describes how to use BASH to install several R and Python libraries to download rasters, transform the data into the format GeoTIFF, and perform calculations.
 The original data is a raster format called BIL that represents monthly temperature and precipitation data.
 This is the first two steps of Extract, Transform, and Load (ETL).
+
 Todo 2: reformat.
 
-## Chapter 7: GDAL Installation
+### Chapter 7: GDAL Installation
 Installs GDAL to build the GeoTIFF rasters in XYZ tile format, which will be hosted on the cloud web server and displayed in the next chapters on web development.
 It is the Load part of ETL.
+
 Todo 3: reformat.
 
-## Chapter 8: GIS Web Development
+### Chapter 8: GIS Web Development
 Uses the JavaScript package manager NPM to install Angular JS and OpenLayers to display the rasters.
+
 Todo 4: reformat.
 
-## Chapter 9: Quantiles
+### Chapter 9: Quantiles
 Example program that uses Python's Numpy to generate quantiles to more effectively visualize the information.
+
 Todo 5 reformat.
 
-## Chapter 10: AngularJS
+### Chapter 10: AngularJS
 Builds a time slider to more effectively view the Nino34 index and the statistical summaries for the raster data.
 Todo 6: reformat.
 
-## Chapter 11: Conclusions
+### Chapter 11: Conclusions
+
 Todo 7: write.
 
 
