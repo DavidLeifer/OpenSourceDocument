@@ -1,13 +1,17 @@
 # Open Source Document
 
-This document is designed as a textbook specifically for graduate students seeking to learn more about quantitative methods. It seeks to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with climate and weather.
+This document is designed as a textbook specifically for graduate students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with web development, climate, and weather. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid irreparable bodily harm.
 
+Chapters 0-3 are in a lesson plan structure, Chapter 4 is a peer-referenced writeup, and Chapters 5-10 are in a 2012 web blog tutorial style.
 
 The chapter number and a brief description is as follows:
 
 ### Chapter 0: Introduction to Computers
 Uses Python to introduce how computers work.
 By the end of the class you should be able to execute code using existing Python libraries like Pandas.
+
+### Chapter ___ : SciPy and Matplotlib
+Todo: include a section on using statistical libraries as a step before the next 3 chapters.
 
 ### Chapter 1: CSV Parser
 Develops a basic version of the CSV parser as seen in the Pandas library.
