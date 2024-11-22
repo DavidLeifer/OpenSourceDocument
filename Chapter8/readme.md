@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 8
 
 Goal is to develop a CSV parser while learning about time and space complexities. There are several libraries that read CSV or other spreadsheet formats that exist in Python: pandas, geopandas, csv, etc. This is a learning exercise you and won't get rich.
 
