@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 10
 
 Goal is to learn data visualization techniques by writing a time series graph in black and white text.
 
