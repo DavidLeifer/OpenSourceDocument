@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 9
 
 Goal is to learn descriptive statistics and implement them in Python using functions.
 
