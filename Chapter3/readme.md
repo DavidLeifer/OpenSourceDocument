@@ -1,3 +1,3 @@
-# Chapter 3: 
+# Chapter 3: Linux Automation
 
 todo: reformat
