@@ -1,68 +1,63 @@
 # Open Source Document
 
-This document is designed as a textbook specifically for graduate students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with web development, climate, and weather. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid irreparable bodily harm.
+todo0: Chapter folders are not in order. 
 
-Chapters 0-3 are in a lesson plan structure, Chapter 4 is a peer-referenced writeup, and Chapters 5-10 are in a 2012 web blog tutorial style.
+This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted irreparable bodily harm.
 
-The chapter number and a brief description is as follows:
+Graduate level students in Geography or other discipline that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
+
+Chapters 0-10 are in a lesson plan structure, Chapter 11 is a peer-referenced writeup on basic skateboarding.
 
 ### Chapter 0: Introduction to Computers
 Uses Python to introduce how computers work.
 By the end of the class you should be able to execute code using existing Python libraries like Pandas.
 
-### Chapter ___ : SciPy and Matplotlib
-Todo: include a section on using statistical libraries as a step before the next 3 chapters.
+### Chapter 1 : SciPy and Matplotlib
+Todo1: Include a section on using statistical libraries as an intermediate step as a graduate student project.
 
-### Chapter 1: CSV Parser
-Develops a basic version of the CSV parser as seen in the Pandas library.
-The goal is to learn more about computer science concepts Time and Space complexity.
+### Chapter 2: Timeseries Rasters for Geoserver
+This course installs Geoserver on Linux to display raster time series data in a local host. The steps are nearly identical to installing the libraries in a cloud provider or web server such as Google Cloud Platform or Amazon Web Services but does not include HTTPS certificate installation.
 
-### Chapter 2: Descriptive Statistics
-Efficiently implement basic descriptive statistics to further an understanding of how computers work.
+Todo 1: edit
 
-### Chapter 3: Python Graph
-Create a black and white python graph using no libraries.
-
-### Chapter 4: Skateboarding and Anatomy
-Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
-
-### Chapter 5: Geoserver in the Cloud
-The history of early internet viruses is a hellscape and it might be challenging to understand why these were built. The next few chapters address how they specifically were designed by altruistic programmers focusing on very small problems without understanding the larger picture of how their programs might be misused.
-Tutorial to install Geoserver on linux and display climate raster time series data in a provider such as Google Cloud Platform.
-The complexities of describing climatology data is challenging. By the time you begin to summarize the information for the layperson all meaning is binned into loaded terms with preconceived assumptions.
-
-Todo 1: reformat.
-
-### Chapter 6: Linux Automation
+### Chapter 3: Linux Automation
 Describes how to use BASH to install several R and Python libraries to download rasters, transform the data into the format GeoTIFF, and perform calculations.
-The original data is a raster format called BIL that represents monthly temperature and precipitation data.
-This is the first two steps of Extract, Transform, and Load (ETL).
+The original data is a raster format called BIL that represents monthly temperature and precipitation data. This is the first two steps of Extract, Transform, and Load (ETL).
 
 Todo 2: reformat.
 
-### Chapter 7: GDAL Installation
+### Chapter 4: GDAL Installation
 Installs GDAL to build the GeoTIFF rasters in XYZ tile format, which will be hosted on the cloud web server and displayed in the next chapters on web development.
 It is the Load part of ETL.
 
 Todo 3: reformat.
 
-### Chapter 8: GIS Web Development
+### Chapter 5: GIS Web Development
 Uses the JavaScript package manager NPM to install Angular JS and OpenLayers to display the rasters.
 
 Todo 4: reformat.
 
-### Chapter 9: Quantiles
-Example program that uses Python's Numpy to generate quantiles to more effectively visualize the information.
+### Chapter 6: Quantiles
+Example program that uses Python's Numpy to generate quantiles to more effectively visualize information.
 
 Todo 5: reformat.
 
-### Chapter 10: AngularJS
-Builds a time slider to more effectively view the Nino34 index and the statistical summaries for the raster data.
+### Chapter 7: AngularJS
+Builds a time slider to more effectively view an index and the statistical summaries for raster data.
 Todo 6: reformat.
 
-### Chapter 11: Conclusions
+### Chapter 8: CSV Parser
+Develops a basic version of the CSV parser as seen in the Pandas library to learn more about the computer science concepts Time and Space complexity.
 
+### Chapter 9: Descriptive Statistics
+Efficiently implement basic descriptive statistics to further an understanding of how computers work.
+
+### Chapter 10: Python Graph
+Create a black and white python graph using no libraries.
+
+### Chapter 11: Skateboarding and Anatomy
+Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
+
+### Chapter 12: Conclusions
 Todo 7: write.
 
-
-Graduate level students in Geography or other discipline that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistics undergraduates to see their material applied to something besides the usual textbook example problem "a train is moving at 50 mph how long does it take to stop in a semi-humid environment."
