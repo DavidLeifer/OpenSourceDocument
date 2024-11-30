@@ -1,12 +1,12 @@
 # Open Source Document
 
-todo 1: edit the notebooks into markdown (md).
+todo 0: write conclusion chapter.
 
-todo 2: Proofread.
+todo 1: edit the notebooks.
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted irreparable bodily harm.
 
-Graduate level students in Geography or other discipline that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
+Graduate level students that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
 
 Chapters 0-10 are in a lesson plan structure.
 
@@ -49,5 +49,4 @@ Create a black and white python graph using no libraries.
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
 
 ### Chapter 12: Conclusions
-Todo: write.
-
+Concludes the textbook with a summary of what was covered.
