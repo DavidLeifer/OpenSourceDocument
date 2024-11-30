@@ -1,7 +1,5 @@
 # Open Source Document
 
-tood 0: Reformat and write chapters 6 and 7.
-
 todo 1: edit the notebooks into markdown (md).
 
 todo 2: Proofread.
@@ -35,12 +33,8 @@ Uses the JavaScript package manager NPM to install OpenLayers to display the XYZ
 ### Chapter 6: Quantiles
 Example program that uses Python's Numpy to generate quantiles to more effectively visualize numerical summaries.
 
-Todo 5: reformat.
-
 ### Chapter 7: AngularJS
 Builds a time slider to more effectively view an index and the statistical summaries for raster data.
-
-Todo: reformat.
 
 ### Chapter 8: CSV Parser
 Develops a basic version of the CSV parser as seen in the Pandas library to learn more about the computer science concepts Time and Space complexity.
