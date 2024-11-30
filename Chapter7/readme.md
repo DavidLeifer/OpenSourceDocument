@@ -1,3 +1,3 @@
 # Chapter 7: AngularJS
 
-todo: reformat
+Builds a time slider to more effectively view an index and the statistical summaries for raster data.
