@@ -4,7 +4,7 @@
 - todo 2: edit the pdf into markdown.
 - edit 3: proofread.
 
-This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted irreparable bodily harm.
+This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is an exercise to learn techniques in how Operating Systems or Databases are built before accidentally building annoying automated misinformation viruses. The code will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted bodily harm.
 
 Graduate level students that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
 
