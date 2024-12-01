@@ -6,7 +6,7 @@
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is an exercise to learn techniques in how Operating Systems or Databases are built before accidentally building annoying automated misinformation viruses. The code will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted bodily harm.
 
-Graduate level students that already has a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
+Graduate level students that already have a firm understanding of basic programming and mathematics would benefit from learning the material. It might also be interesting for engineering, computer science, or statistic students to see material applied to real world problems.
 
 Chapters 0-10 are in a lesson plan structure.
 
@@ -16,7 +16,7 @@ Chapter 11 is a peer-referenced writeup on basic skateboarding.
 Uses Python to introduce how computers work. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
 
 ### Chapter 1 : SciPy and Matplotlib
-This chapter is written by the the reader to learn about website scraping and further knowledge on SciPy for statistics and Matplotlib for data visualization. It is similar to my graduate thesis and the general outline is below:
+This chapter is written by the reader to learn about website scraping and further knowledge on SciPy for statistics and Matplotlib for data visualization. It is similar to my graduate thesis and the general outline is below:
 
 - Weeks 0-5 would include using a library similar to the former Twitter website's API Tweepy to collect text information.
 
