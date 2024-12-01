@@ -1,8 +1,8 @@
 # Open Source Document
 
-todo 1: edit the notebooks into a pdf.
-todo 2: edit the pdf into markdown.
-edit 3: proofread.
+- todo 1: edit the notebooks into a pdf.
+- todo 2: edit the pdf into markdown.
+- edit 3: proofread.
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted irreparable bodily harm.
 
