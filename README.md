@@ -1,8 +1,8 @@
 # Open Source Document
 
-todo 0: write conclusion chapter.
-
-todo 1: edit the notebooks.
+todo 1: edit the notebooks into a pdf.
+todo 2: edit the pdf into markdown.
+edit 3: proofread.
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is a learning exercise and will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted irreparable bodily harm.
 
@@ -16,7 +16,13 @@ Chapter 11 is a peer-referenced writeup on basic skateboarding.
 Uses Python to introduce how computers work. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
 
 ### Chapter 1 : SciPy and Matplotlib
-Todo1: Include a section on using statistical libraries as an intermediate step as a graduate student project.
+This chapter is written by the the reader to learn about website scraping and further knowledge on SciPy for statistics and Matplotlib for data visualization. It is similar to my graduate thesis and the general outline is below:
+
+- Weeks 0-5 would include using a library similar to the former Twitter website's API Tweepy to collect text information.
+
+- Weeks 8-11 would include learning data visualization with Matplotlib.
+
+- Weeks 12-15 would learn basic statistical functions with SciPy.
 
 ### Chapter 2: Timeseries Rasters for Geoserver
 This course installs Geoserver on Linux to display raster time series data in a local host. The steps are nearly identical to installing the libraries in a cloud provider or web server such as Google Cloud Platform or Amazon Web Services but does not include HTTPS certificate installation.
