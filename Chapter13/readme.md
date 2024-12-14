@@ -16,8 +16,10 @@ might be useful when examining the second dataset
 
 Kinematic functions of skateboarding and similar sports movements with other specific bodily habits.
 33 BookNotes
+
 1. Comparison of muscular strength and imbalance in powerlifters and jumpers
 34
+
 2. Knee side-to-side strength asymmetry and hamstring-to-quadriceps strength ratios in professional street skateboarding athletes
 35
 3. An evaluation of agonist:antagonist strength ratios and posture among powerlifters
