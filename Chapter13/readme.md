@@ -14,29 +14,27 @@ might be useful when examining the second dataset
 
 ### References
 
-- Kinematic functions of skateboarding and similar sports movements with other specific bodily habits.
-
+Kinematic functions of skateboarding and similar sports movements with other specific bodily habits.
 33 BookNotes
-
 1. Comparison of muscular strength and imbalance in powerlifters and jumpers
-
-1. Knee side-to-side strength asymmetry and hamstring-to-quadriceps strength ratios in professional street skateboarding athletes
+34
+2. Knee side-to-side strength asymmetry and hamstring-to-quadriceps strength ratios in professional street skateboarding athletes
 35
-2. An evaluation of agonist:antagonist strength ratios and posture among powerlifters
+3. An evaluation of agonist:antagonist strength ratios and posture among powerlifters
 52
-3. Clinical characteristics of peroneal nerve palsy by posture
+4. Clinical characteristics of peroneal nerve palsy by posture
 53
-4. Peroneal Nerve Injury
+5. Peroneal Nerve Injury
 54
-5. Alteration of quadriceps muscle activity during functional step tasks after extended sitting session
+6. Alteration of quadriceps muscle activity during functional step tasks after extended sitting session
 55
-6. Kinematic analysis of knee valgus during drop vertical jump and forward step-up in young basketball players
-
-- Inflammation
+7. Kinematic analysis of knee valgus during drop vertical jump and forward step-up in young basketball players
 56
 8. The immunomodulation and anti-inflammatory effects of garlic organosulfur compounds in cancer chemoprevention
 57
 9. Antioxidant and anti-inflammatory effect of cinnamon (Cinnamomum verum J. Presl) bark extract after in vitro digestion simulation
+
+Inflammation
 60
 10. Cytokine, sickness behavior, and depression
 61
