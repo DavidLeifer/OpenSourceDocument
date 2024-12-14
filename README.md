@@ -10,7 +10,7 @@ Graduate level students that already have a firm understanding of basic programm
 
 Chapters 0-10 are in a lesson plan structure.
 
-Chapter 11 is a peer-referenced writeup on basic skateboarding.
+Chapter 11-13 is a peer-referenced writeup on skateboarding and anatomy.
 
 ### Chapter 0: Introduction to Computers
 Uses Python to introduce how computers work. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
@@ -51,8 +51,14 @@ Efficiently implement basic descriptive statistics to further an understanding o
 ### Chapter 10: Python Graph
 Create a black and white python graph using no libraries.
 
-### Chapter 11: Skateboarding and Anatomy
+### Chapter 11: Skateboarding and Anatomy I
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
 
-### Chapter 12: Conclusions
+### Chapter 12: Introduction to Neurobiology
+A review of information learned about neurobiology and how it relates to the muscular and nervous system.
+
+### Chapter 13: Skateboarding and Anatomy II
+An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-December, 2024.
+
+### Chapter 14: Conclusions
 Concludes the textbook with a summary of what was covered.
