@@ -1,5 +1,13 @@
 # Open Source Document
 
+By: David Leifer
+
+M.S. Geography
+
+B.A. Environmental Geography
+
+Disclaimer: I don't have a medical degree.
+
 - todo 1: edit the notebooks into a pdf.
 - todo 2: edit the pdf into markdown.
 - edit 3: proofread.
@@ -52,13 +60,13 @@ Efficiently implement basic descriptive statistics to further an understanding o
 Create a black and white python graph using no libraries.
 
 ### Chapter 11: Skateboarding and Anatomy I
-Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury.
+Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury. Written at a undergraduate level for Kinesiology.
 
 ### Chapter 12: Introduction to Neurobiology
 A review of information learned about neurobiology and how it relates to the muscular and nervous system.
 
 ### Chapter 13: Skateboarding and Anatomy II
-An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-December, 2024.
+An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-December, 2024. Written at a graduate level for Kinesiology.
 
 ### Chapter 14: Conclusions
 Concludes the textbook with a summary of what was covered.
