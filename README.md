@@ -1,9 +1,7 @@
 # Open Source Document
 
 By: David Leifer
-
 M.S. Geography
-
 B.A. Environmental Geography
 
 Disclaimer: I don't have a medical degree.
