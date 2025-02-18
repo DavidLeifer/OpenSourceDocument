@@ -56,7 +56,7 @@ Efficiently implement basic descriptive statistics to further an understanding o
 Create a black and white python graph using no libraries.
 
 ### Chapter 11: Skateboarding and Anatomy I
-Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury. Written at a undergraduate level for Kinesiology.
+Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury. Written at an undergraduate level for Kinesiology.
 
 ### Chapter 12: Introduction to Neurobiology
 A review of information learned about neurobiology and how it relates to the muscular and nervous system.
