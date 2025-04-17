@@ -6,7 +6,6 @@ Disclaimer: I don't have a medical degree.
 
 
 - In progress: anatomy section notes, new background ch13.
-- In progress: make graphs for dataset 1,2,3 chp 11 and 13 with python
 
 - Todo 0: ch 13 summary statistics dataset 2, discussion, conclusion
 - Todo 1: Edit chapters 6-7, 10 into .pdf. code is grey background. italicized jupyter methods.
