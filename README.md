@@ -20,7 +20,7 @@ Chapters 0-10 are in a lesson plan structure.
 
 Chapter 11-13 is a peer-referenced writeup on skateboarding and anatomy.
 
-The 'ExerciseStatisticsVersions' folder has working ipynb files with functions as they are written which morphed into the 'exercise_module.py' import file that handles parsing and statistics. Most of the files used in the course are found in 'data' with the exception of A0.csv and A1.tsv with the idea that the user can record their own data.
+The 'ExerciseStatisticsVersions' folder has working ipynb files with functions that are used throughout the course. The code morphed into an import file 'exercise_module.py' and handles parsing and statistics that are similar to basic commands in the Python libraries Pandas and SciPy. Most of the files used in the course are found in 'data' with the exception of 'A0.csv' and 'A1.tsv' with the idea that the reader can puzzle out the format to record their own information.
 
 ### Chapter 0: Introduction to Computers
 Uses Python to introduce how computers work. By the end of the class you should be able to execute code using existing Python libraries like Pandas.
