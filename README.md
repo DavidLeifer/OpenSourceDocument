@@ -5,11 +5,12 @@ By: David Leifer, M.S. Geography, B.A. Environmental Geography.
 Disclaimer: I don't have a medical degree.
 
 
-- In progress: anatomy section notes, new background ch13.
+- In progress: anatomy section notes, background ch12.
 
-- Todo 0: ch 13 summary statistics dataset 2, discussion, conclusion
+- Todo 0: ch 12 summary statistics dataset 2, discussion, conclusion
 - Todo 1: Edit chapters 6-7, 10 into .pdf. code is grey background. italicized jupyter methods.
-- Todo 2: Edit chapters 0-14 into .md and proofread.
+- Todo 2: Edit chapter 13 conclusions.
+- Todo 3: Edit chapters 0-13 into .md and proofread.
 
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is an exercise to learn techniques in how Operating Systems or Databases are built before accidentally building annoying automated misinformation viruses. The code will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted bodily harm.
@@ -18,7 +19,7 @@ Graduate level students that already have a firm understanding of basic programm
 
 Chapters 0-10 are in a lesson plan structure.
 
-Chapter 11-13 is a peer-referenced writeup on skateboarding and anatomy.
+Chapters 11 and 12 are a peer-referenced writeup on skateboarding and anatomy.
 
 The 'ExerciseStatisticsVersions' folder has working ipynb files with functions that are used throughout the course. The code morphed into an import file 'exercise_module.py' and handles parsing and statistics that are similar to basic commands in the Python libraries Pandas and SciPy. Most of the files used in the course are found in 'data' with the exception of 'A0.csv' and 'A1.tsv' with the idea that the reader can puzzle out the format to record their own information.
 
@@ -64,11 +65,8 @@ Create a black and white python graph using no libraries.
 ### Chapter 11: Skateboarding and Anatomy I
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury. Written at an undergraduate level for Kinesiology.
 
-### Chapter 12: Introduction to Neurobiology
-A review of information learned about neurobiology and how it relates to the muscular and nervous system.
-
-### Chapter 13: Skateboarding and Anatomy II
+### Chapter 12: Skateboarding and Anatomy II
 An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-December, 2024. Written at a graduate level for Kinesiology.
 
-### Chapter 14: Conclusions
+### Chapter 13: Conclusions
 Concludes the textbook with a summary of what was covered.
