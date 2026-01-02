@@ -66,7 +66,7 @@ Create a black and white python graph using no libraries.
 Discusses learning basic skateboarding tricks and the anatomy and physiological functions necessary to avoid severe bodily injury. Written at an undergraduate level for Kinesiology.
 
 ### Chapter 12: Skateboarding and Anatomy II
-An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-December, 2024. Written at a graduate level for Kinesiology.
+An in-depth analysis with more data and a summary of anatomy information learned while skateboarding from June-November, 2024. Written at a graduate level for Kinesiology.
 
 ### Chapter 13: Conclusions
 Concludes the textbook with a summary of what was covered.
