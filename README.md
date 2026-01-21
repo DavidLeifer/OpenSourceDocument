@@ -5,9 +5,8 @@ By: David Leifer, M.S. Geography, B.A. Environmental Geography.
 Disclaimer: I don't have a medical degree.
 
 
-- In progress: anatomy section notes, background ch12.
+- In progress: chapter 12 proofread.
 
-- Todo 0: ch 12 summary statistics dataset 2, discussion, conclusion
 - Todo 1: Edit chapters 6-7, 10 into .pdf. code is grey background. italicized jupyter methods.
 - Todo 2: Edit chapter 13 conclusions.
 - Todo 3: Edit chapters 0-13 into .md and proofread.
