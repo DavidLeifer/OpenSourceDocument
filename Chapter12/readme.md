@@ -4,6 +4,4 @@ An in-depth analysis with more data and a summary of anatomy information learned
 
 todo 1: analysis for results
 
-todo 2: introduction
-
-todo 3: conclusions
+todo 2: proofread
