@@ -2,6 +2,8 @@
 
 - Contains 'exercise_module.py' that is a locally imported file with 'class' functions for parsing CSV or TSV files, column manipulation, and statistics. It was primarily developed on GoogleColab in the ExerciseStatistics.ipynb and GraphExerciseStatistics.ipynb files and in use after around 20250401 when I got tired of scrolling through 1000+ lines.
 
+- mnt was sample instead of population until 20260316.
+
 - 'exercise_module_graphs.py' contains 'def' functions for example usage.
 
 - I also started making default Python functions in 'Cython_clones.py' using C-like syntax (such as len()) and is a good side project for later.
