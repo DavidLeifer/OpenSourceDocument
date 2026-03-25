@@ -5,7 +5,7 @@ By: David Leifer, M.S. Geography, B.A. Environmental Geography.
 Disclaimer: I don't have a medical degree.
 
 
-- Todo 1 Edit chapters 0-13 into .md and proofread.
+- Todo 1 Edit chapters 6-10 into .md and proofread.
 
 
 This document is designed as a textbook specifically for students seeking to learn more about quantitative methods. It attempts to blend several disciplines into a linear concept: computer science and statistics, anatomy and skateboarding, along with front and backend web development. It is an exercise to learn techniques in how Operating Systems or Databases are built before accidentally building annoying automated misinformation viruses. The code will not get anyone wealthy but will hopefully provide the tools to avoid self-inflicted bodily harm.
