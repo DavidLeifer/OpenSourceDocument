@@ -4,6 +4,6 @@ This chapter is designed to be written by the reader in a Jupyter Notebook or Ma
 
 The general outline is below:
 
->- Weeks 0-5 would include using a library similar to the former Twitter website's API Tweepy to collect text information.
->- Weeks 8-11 would include learning data visualization with Matplotlib.
->- Weeks 12-15 would learn basic statistical functions with SciPy.
+- Weeks 0-5 would include using a library similar to the former Twitter website's API Tweepy to collect text information.
+- Weeks 8-11 would include learning data visualization with Matplotlib.
+- Weeks 12-15 would learn basic statistical functions with SciPy.
